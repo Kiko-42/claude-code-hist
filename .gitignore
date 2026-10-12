@@ -1,0 +1,5 @@
+node_modules/
+*.log
+.DS_Store
+# written by the Claude Code engine when it loads the mod from this folder
+.claude-plugin/types/

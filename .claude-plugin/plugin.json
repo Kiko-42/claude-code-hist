@@ -1,0 +1,20 @@
+{
+  "name": "prompt-jump",
+  "version": "0.1.0",
+  "description": "Lists the prompts you typed this session, newest first; pick one to jump the transcript there (/hist)",
+  "author": {
+    "name": "Kiko",
+    "url": "https://github.com/Kiko-42"
+  },
+  "homepage": "https://github.com/Kiko-42/claude-code-hist",
+  "repository": "https://github.com/Kiko-42/claude-code-hist",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "mod",
+    "history",
+    "prompt",
+    "jump"
+  ],
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "claude-code-hist",
+  "owner": {
+    "name": "Kiko",
+    "url": "https://github.com/Kiko-42"
+  },
+  "description": "Kiko's mods for Claude Code (prompt-jump: /hist jumps the transcript to a past prompt)",
+  "plugins": [
+    {
+      "name": "prompt-jump",
+      "source": "./",
+      "description": "/hist: list past prompts, jump to one, read its reply"
+    }
+  ]
+}
